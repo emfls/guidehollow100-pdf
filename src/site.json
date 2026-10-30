@@ -14,7 +14,8 @@
     "서명·문서 공유"
   ],
   "url": "https://pdf.guidehollow.com/",
-  "launchReady": false,
+  "launchReady": true,
   "section": "PDF 문서 활용",
-  "pageTitle": "PDF 압축·편집·변환 가이드 | GuideHollow"
+  "pageTitle": "PDF 압축·편집·변환 가이드 | GuideHollow",
+  "adsReady": false
 }
