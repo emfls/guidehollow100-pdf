@@ -1,18 +1,20 @@
 {
-  "title": "GuideHollow PDF",
+  "title": "GuideHollow",
   "slug": "pdf",
   "short": "PDF",
-  "hero": "Work with PDFs. Keep the details intact.",
-  "description": "PDF compression, editing, scanning, sharing and document integrity.",
+  "hero": "PDF 작업, 글자와 문서 품질을 지키면서 해결하세요.",
+  "description": "PDF 압축, 편집, 변환, 전자서명, 스캔과 개인정보 보호 방법을 쉽게 안내합니다.",
   "accent": "#c64040",
   "topics": [
-    "Compression",
-    "Editing",
-    "Forms",
-    "Privacy",
-    "Scans and OCR",
-    "Signing"
+    "파일 크기 줄이기",
+    "PDF 편집·변환",
+    "양식 작성",
+    "개인정보·가리기",
+    "스캔·문자 인식",
+    "서명·문서 공유"
   ],
   "url": "https://pdf.guidehollow.com/",
-  "launchReady": false
+  "launchReady": false,
+  "section": "PDF 문서 활용",
+  "pageTitle": "PDF 압축·편집·변환 가이드 | GuideHollow"
 }
