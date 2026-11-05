@@ -2,8 +2,8 @@
   "title": "GuideHollow",
   "slug": "pdf",
   "short": "PDF",
-  "hero": "PDF 작업, 글자와 문서 품질을 지키면서 해결하세요.",
-  "description": "PDF 압축, 편집, 변환, 전자서명, 스캔과 개인정보 보호 방법을 쉽게 안내합니다.",
+  "hero": "PDF 페이지 범위 계획 도우미",
+  "description": "고유 페이지·역순·제외 페이지를 계산하여 TXT로 저장합니다. PDF 파일을 읽거나 편집하지 않습니다.",
   "accent": "#c64040",
   "topics": [
     "파일 크기 줄이기",
@@ -16,7 +16,8 @@
   "url": "https://pdf.guidehollow.com/",
   "launchReady": true,
   "section": "PDF 문서 활용",
-  "pageTitle": "PDF 압축·편집·변환 가이드 | GuideHollow",
+  "pageTitle": "PDF 페이지 범위 계획 도우미 | GuideHollow",
   "adsReady": false,
-  "coupangEnabled": true
+  "coupangEnabled": true,
+  "utilityEnabled": true
 }
